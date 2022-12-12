@@ -1,0 +1,21 @@
+td { text-align: center;
+border-radius: 10px;
+background: rgb(255, 255, 255);
+width: 100px;
+height: 100px}
+.gases-nobres{background: salmon;}
+.não-metais{background: steelblue;}
+.alcalinos{background: seagreen;}
+.alcalinos-terrosos{background: yellowgreen;}
+.metais{background: sandybrown;}
+.semi-metais{background: pink;}
+.outros-metais{background: plum;}
+.halogenios{background: deepskyblue;}
+.lantanídeos{background:rgb(248, 213, 11) ;}
+.actinídeos{background: rgba(177, 50, 0, 0.486)}
+
+ul{list-style:none;margin:0;padding:0}
+.atomico{ text-align: left; margin: 3px}
+.elemento{font-size: 3.5vh;}
+
+a{color: black;text-decoration: none};
